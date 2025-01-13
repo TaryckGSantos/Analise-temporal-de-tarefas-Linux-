@@ -1,6 +1,6 @@
 # Análise Temporal de Tarefas - Linux
 
-Análise temporal criteriosa de tarefas desenvolvidas em um sistema baseado em **Pthreads no Linux**. O objetivo principal é avaliar o desempenho das tasks relacionadas ao **ABS** e **Airbag**, medindo tempos críticos como o **WCET** (Worst Case Execution Time) e o **WCRT** (Worst Case Response Time), além de verificar o conceito de **(m,k)-firme**. Link do [vídeo de demonstração do funcionamento do código e análise temporal](https://youtu.be/6yXkmLEop2Y).
+Análise temporal criteriosa de tarefas desenvolvidas em um sistema baseado em **Pthreads no Linux**. O objetivo principal é avaliar o desempenho das tasks relacionadas ao **ABS** e **Airbag**, medindo tempos críticos como o **WCET** (Worst Case Execution Time) e o **WCRT** (Worst Case Response Time), além de verificar o conceito de **(m,k)-firme**. Link do [vídeo de demonstração do funcionamento do código e análise temporal.](https://youtu.be/6yXkmLEop2Y)
 
 ---
 
